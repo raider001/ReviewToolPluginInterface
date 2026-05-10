@@ -1,0 +1,14 @@
+com\kalynx\serverlessreviewtool\plugin\ReviewUpdateType.class
+com\kalynx\serverlessreviewtool\plugin\NotificationPayload.class
+com\kalynx\serverlessreviewtool\plugin\SyntaxHighlighterPlugin.class
+com\kalynx\serverlessreviewtool\plugin\NotificationPlugin$NotificationType.class
+com\kalynx\serverlessreviewtool\plugin\Notifier.class
+com\kalynx\serverlessreviewtool\plugin\SyntaxHighlighterPlugin$SyntaxToken.class
+com\kalynx\serverlessreviewtool\plugin\Plugin.class
+com\kalynx\serverlessreviewtool\plugin\RepositoryDescriptor.class
+com\kalynx\serverlessreviewtool\plugin\RepositoryListUpdate.class
+com\kalynx\serverlessreviewtool\plugin\UserPlugin.class
+com\kalynx\serverlessreviewtool\plugin\ReviewListUpdate.class
+com\kalynx\serverlessreviewtool\plugin\NotificationPlugin.class
+com\kalynx\serverlessreviewtool\plugin\SyntaxHighlighterPlugin$TokenType.class
+com\kalynx\serverlessreviewtool\plugin\UserPlugin$NotificationType.class
