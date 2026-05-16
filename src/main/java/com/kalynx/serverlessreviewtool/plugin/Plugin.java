@@ -14,14 +14,10 @@ public interface Plugin {
     void initialize();
 
     /**
-     * Returns a {@link PluginPanel} describing the panel this plugin wishes to contribute
-     * to the main application navigation menu, or {@code null} if the plugin provides no UI.
+     * Returns a UI panel to be added to the application menu, or null if this plugin
+     * does not contribute UI.
      *
-     * <p>Returning {@code null} (the default) means the application will not add any menu
-     * entry for this plugin. Override this method and return a {@link PluginPanel} instance
-     * to add a named, prioritised entry to the slide-out menu.
-     *
-     * @return a {@link PluginPanel}, or {@code null} if this plugin has no UI contribution
+     * @return plugin panel descriptor, or null
      */
     default PluginPanel getUI() {
         return null;
